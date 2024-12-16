@@ -68,11 +68,14 @@ Signal-Processing-Algorithms/
 ## Visual Overview
 Below is a visual summary of the algorithms implemented in this repository:
 
-| ![Algorithm 1](path/to/image1.png) | ![Algorithm 2](path/to/image2.png) |
+
+
+
+| ![Figure_1](https://github.com/user-attachments/assets/4a61e55a-34a6-4ef1-af01-3f6900af9b2e) | ![Figure_1](https://github.com/user-attachments/assets/6557e740-f74f-44d5-8b59-c59d3673fd6f) |
 |:----------------------------------:|:----------------------------------:|
 | Algorithm 1 Description            | Algorithm 2 Description            |
 
-| ![Algorithm 3](path/to/image3.png) | ![Algorithm 4](path/to/image4.png) |
+| ![Figure_1](https://github.com/user-attachments/assets/67c8b973-5589-4476-8fcb-207f67c11743) | ![Figure_1](https://github.com/user-attachments/assets/d5f8f005-ba44-497f-988a-3d4028406785) |
 |:----------------------------------:|:----------------------------------:|
 | Algorithm 3 Description            | Algorithm 4 Description            |
 
