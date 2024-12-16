@@ -1,4 +1,3 @@
-markdown
 # Audio Analysis with AMDF
 
 This project analyzes an audio signal using the Average Magnitude Difference Function (AMDF). It visualizes both the original audio signal and its AMDF.
@@ -61,5 +60,6 @@ This should help users understand how to set up and use your audio analysis code
 
 # outputs
 Lets see some outputs
-![Uploading Figure_1.png…]()
+![Figure_1](https://github.com/user-attachments/assets/588efbd4-ed2f-4756-8a29-4731add41fff)
+
 
