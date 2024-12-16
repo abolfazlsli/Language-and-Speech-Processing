@@ -45,11 +45,21 @@ This project is licensed under the MIT License.
 ### requirements.txt
 
 ```
+the modules used : 
 numpy
 librosa
 matplotlib
-```
+- Copy the following content:
 
+     ```
+     numpy
+     librosa
+     matplotlib
+     ```
+     and installation command using requirements.txt:
+     ```
+       pip install -r requirements.txt
+     ```
 ### Instructions
 
 1. **Create the `README.md` file:**
@@ -59,15 +69,8 @@ matplotlib
 
 2. **Create the `requirements.txt` file:**
    - Open a new file in the text editor.
-```
 # Output
 ![Figure_1](https://github.com/user-attachments/assets/9b411b9e-767a-442c-931f-49863c9c96ad)
 
 
-   - Copy the following content:
 
-     ```
-     numpy
-     librosa
-     matplotlib
-     ```
