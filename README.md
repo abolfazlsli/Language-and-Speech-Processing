@@ -69,8 +69,3 @@ Signal-Processing-Algorithms/
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 ## Exampels 
 
-   |---------|------------|-------------|
-   |         |            |             |
-   |         |            |             |
-   |         |            |             |
-   |------------------------------------|
