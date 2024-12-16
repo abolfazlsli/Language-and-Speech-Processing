@@ -62,7 +62,7 @@ matplotlib
      ```
      ## Usage
   first download it:
-       ```
+       ```bash
        git clone https://github.com/abolfazlsli/Language-and-Speech-Processing.git
        ```
   and the run by python !
