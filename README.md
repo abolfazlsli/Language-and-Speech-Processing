@@ -56,11 +56,11 @@ Signal-Processing-Algorithms/
 ├── cepstral coefficients/        # Cepstral Coefficients Algorithm
 ├── CQT/                          # Constant-Q Transform Algorithm
 ├── FFT/                          # FFT Algorithm
-├── Cepstral.py                   # Cepstral Features Algorithm
-├── HPS.py                        # Harmonic Product Spectrum Algorithm
-├── LPC.py                        # Linear Predictive Coding Algorithm
-├── Spectral Guarantee.py         # Spectral Guarantee Algorithm
-├── Step Guarantee.py             # Step Guarantee Algorithm
+├── Cepstral/                   # Cepstral Features Algorithm
+├── HPS/                        # Harmonic Product Spectrum Algorithm
+├── LPC/                        # Linear Predictive Coding Algorithm
+├── Spectral Guarantee/         # Spectral Guarantee Algorithm
+├── Step Guarantee/             # Step Guarantee Algorithm
 ├── requirements.txt              # Required Libraries
 └── README.md                     # Documentation
 ```
