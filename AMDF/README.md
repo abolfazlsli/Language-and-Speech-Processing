@@ -40,10 +40,7 @@ python audio_analysis.py
 ## License
 
 This project is licensed under the MIT License.
-```
-
 ### requirements.txt
-
 ```
 numpy
 librosa
