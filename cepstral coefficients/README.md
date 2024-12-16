@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Audio Cepstral Analysis
 
 This project performs cepstral analysis on an audio signal and visualizes both the original audio signal and its cepstral coefficients.
@@ -62,6 +59,11 @@ matplotlib
 
 2. **Create the `requirements.txt` file:**
    - Open a new file in the text editor.
+```
+# Output
+![Figure_1](https://github.com/user-attachments/assets/9b411b9e-767a-442c-931f-49863c9c96ad)
+
+
    - Copy the following content:
 
      ```
