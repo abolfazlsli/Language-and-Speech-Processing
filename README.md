@@ -73,11 +73,11 @@ Below is a visual summary of the algorithms implemented in this repository:
 
 | ![Figure_1](https://github.com/user-attachments/assets/4a61e55a-34a6-4ef1-af01-3f6900af9b2e) | ![Figure_1](https://github.com/user-attachments/assets/6557e740-f74f-44d5-8b59-c59d3673fd6f) |
 |:----------------------------------:|:----------------------------------:|
-| Algorithm 1 Description            | Algorithm 2 Description            |
+| Signal and FFT Analysis            | Constant-Q Transform (CQT) Visualization            |
 
 | ![Figure_1](https://github.com/user-attachments/assets/67c8b973-5589-4476-8fcb-207f67c11743) | ![Figure_1](https://github.com/user-attachments/assets/d5f8f005-ba44-497f-988a-3d4028406785) |
 |:----------------------------------:|:----------------------------------:|
-| Algorithm 3 Description            | Algorithm 4 Description            |
+| Audio Cepstral Analysis            |   Audio Analysis with AMDF         |
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
