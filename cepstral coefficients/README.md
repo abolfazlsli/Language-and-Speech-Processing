@@ -40,33 +40,32 @@ python audio_analysis.py
 ## License
 
 This project is licensed under the MIT License.
-```
-
+```bash
 ### requirements.txt
-
 ```
 the modules used : 
 numpy
 librosa
 matplotlib
 - Copy the following content:
-
-     ```
+     ```bash
      numpy
      librosa
      matplotlib
      ```
      and installation command using requirements.txt:
-     ```
+     ```bash
        pip install -r requirements.txt
      ```
-     ## Usage
+## Usage
   first download it:
-       ```bash
+       ```
        git clone https://github.com/abolfazlsli/Language-and-Speech-Processing.git
        ```
   and the run by python !
 # Output
+
+
 ![Figure_1](https://github.com/user-attachments/assets/9b411b9e-767a-442c-931f-49863c9c96ad)
 
 
