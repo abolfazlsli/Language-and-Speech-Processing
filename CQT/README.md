@@ -30,12 +30,21 @@ python scripts/cqt_visualization.py
 - [Librosa](https://librosa.org/)
 - [Matplotlib](https://matplotlib.org/)
 
+## Repository Structure
+```
+CQT-Visualization/
+├── audio/
+│   └── 15-15- amozesh dadan.wav  # Sample audio file
+├── scripts/
+│   └── cqt_visualization.py     # Main script
+├── requirements.txt             # Required dependencies
+└── README.md                    # Documentation
+```
 
 ## Example Output
 An example visualization of a CQT spectrogram will look like this:
-![Figure_1](https://github.com/user-attachments/assets/76d585ca-2453-4a8e-8f73-0585d33c3208)
 
-
+![CQT Example](example_output.png)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.

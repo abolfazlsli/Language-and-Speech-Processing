@@ -1,3 +1,4 @@
+```markdown
 # Audio Analysis with AMDF
 
 This project analyzes an audio signal using the Average Magnitude Difference Function (AMDF). It visualizes both the original audio signal and its AMDF.
@@ -40,7 +41,10 @@ python audio_analysis.py
 ## License
 
 This project is licensed under the MIT License.
+```
+
 ### requirements.txt
+
 ```
 numpy
 librosa
@@ -52,11 +56,5 @@ matplotlib
 1. Create a file named `README.md` and copy the content above into it.
 2. Create a file named `requirements.txt` and copy the content above into it.
 3. Make sure to adjust the `file_path` variable in your script to point to the correct audio file you want to analyze.
-```
+
 This should help users understand how to set up and use your audio analysis code!
-
-# outputs
-Lets see some outputs
-![Figure_1](https://github.com/user-attachments/assets/588efbd4-ed2f-4756-8a29-4731add41fff)
-
-

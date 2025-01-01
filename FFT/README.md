@@ -43,8 +43,8 @@ The script generates the following visualizations:
 1. **Time Domain Signal**: Shows the composite waveform over time.
 2. **Frequency Domain (FFT)**: Highlights the primary frequency components of the signal.
 
-![Figure_1](https://github.com/user-attachments/assets/75f74553-3cd3-4153-b502-5dfd2dc13239)
-
+![Time Domain Example](example_time_domain.png)
+![Frequency Domain Example](example_frequency_domain.png)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.

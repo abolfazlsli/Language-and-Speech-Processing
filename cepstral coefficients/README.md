@@ -1,3 +1,6 @@
+### README.md
+
+```markdown
 # Audio Cepstral Analysis
 
 This project performs cepstral analysis on an audio signal and visualizes both the original audio signal and its cepstral coefficients.
@@ -40,33 +43,29 @@ python audio_analysis.py
 ## License
 
 This project is licensed under the MIT License.
-```bash
-### requirements.txt
 ```
-the modules used : 
+
+### requirements.txt
+
+```
 numpy
 librosa
 matplotlib
-- Copy the following content:
-     ```bash
+```
+
+### Instructions
+
+1. **Create the `README.md` file:**
+   - Open a text editor (like Notepad, VSCode, or any other editor).
+   - Copy the content above and paste it into a new file.
+   - Save the file as `README.md`.
+
+2. **Create the `requirements.txt` file:**
+   - Open a new file in the text editor.
+   - Copy the following content:
+
+     ```
      numpy
      librosa
      matplotlib
      ```
-     and installation command using requirements.txt:
-     ```bash
-       pip install -r requirements.txt
-     ```
-## Usage
-  first download it:
-       ```
-       git clone https://github.com/abolfazlsli/Language-and-Speech-Processing.git
-       ```
-  and the run by python !
-# Output
-
-
-![Figure_1](https://github.com/user-attachments/assets/9b411b9e-767a-442c-931f-49863c9c96ad)
-
-
-
